@@ -29,7 +29,7 @@ def obtener_eventos():
             url = (
                 "https://sports.core.api.espn.com/v2/"
                 f"sports/soccer/leagues/{torneo}/"
-                f"seasons/2026/teams/2688/events"
+                f"seasons/2026/teams/4139/events"
                 f"?page={pagina}"
             )
 
@@ -90,7 +90,7 @@ def crear_calendario():
 
     calendario.add(
         "prodid",
-        "-//JebusRF Colo-Colo WebCal//"
+        "-//JebusRF Universidad de Chile WebCal//"
     )
 
     calendario.add(
@@ -152,7 +152,7 @@ def crear_calendario():
             evento.add("location", estadio)
 
             descripcion = (
-                f"Club: Colo-Colo\r\n"
+                f"Club: Universidad de Chile\r\n"
                 f"\r\n"
                 f"Torneo: {torneo}\r\n"
                 f"\r\n"
@@ -160,7 +160,7 @@ def crear_calendario():
                 f"\r\n"
                 f"Fuente: ESPN Core API\r\n"
                 f"\r\n"
-                f"https://jebusrf.github.io/Colo-ColoWebCal/"
+                f"https://jebusrf.github.io/UdeChileWebCal/"
             )
 
             evento.add(
