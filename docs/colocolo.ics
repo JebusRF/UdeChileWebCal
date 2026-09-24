@@ -1,0 +1,384 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//JebusRF Colo-Colo WebCal//
+BEGIN:VEVENT
+SUMMARY:Deportes Limache vs Colo Colo
+DTSTART:20260131T150000Z
+DTEND:20260131T170000Z
+UID:401850418@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Elías Figueroa Brander\n\nFuente: ESPN Core API\n\nhttps://je
+ busrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Elías Figueroa Brander
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs Everton CD
+DTSTART:20260207T233000Z
+DTEND:20260208T013000Z
+UID:401850437@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Monumental David Arellano\n\nFuente: ESPN Core API\n\nhttps://
+ jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs Unión La Calera
+DTSTART:20260215T233000Z
+DTEND:20260216T013000Z
+UID:401850445@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Monumental David Arellano\n\nFuente: ESPN Core API\n\nhttps://
+ jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:O'Higgins vs Colo Colo
+DTSTART:20260221T210000Z
+DTEND:20260221T230000Z
+UID:401850467@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio El Teniente\n\nFuente: ESPN Core API\n\nhttps://jebusrf.github
+ .io/Colo-ColoWebCal/
+LOCATION:Estadio El Teniente
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs Universidad de Chile
+DTSTART:20260301T210000Z
+DTEND:20260301T230000Z
+UID:401850480@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Monumental David Arellano\n\nFuente: ESPN Core API\n\nhttps://
+ jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Audax Italiano vs Colo Colo
+DTSTART:20260307T210000Z
+DTEND:20260307T230000Z
+UID:401850499@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Municipal de La Florida\n\nFuente: ESPN Core API\n\nhttps://je
+ busrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Municipal de La Florida
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs Huachipato
+DTSTART:20260316T233000Z
+DTEND:20260317T013000Z
+UID:401850516@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Monumental David Arellano\n\nFuente: ESPN Core API\n\nhttps://
+ jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deportes Concepcion vs Colo Colo
+DTSTART:20260405T193000Z
+DTEND:20260405T213000Z
+UID:401850537@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Municipal Alcaldesa Ester Roa Rebolledo\n\nFuente: ESPN Core A
+ PI\n\nhttps://jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Municipal Alcaldesa Ester Roa Rebolledo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs Palestino
+DTSTART:20260419T223000Z
+DTEND:20260420T003000Z
+UID:401850549@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Monumental David Arellano\n\nFuente: ESPN Core API\n\nhttps://
+ jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Universidad de Concepción vs Colo Colo
+DTSTART:20260426T190000Z
+DTEND:20260426T210000Z
+UID:401850558@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Municipal Alcaldesa Ester Roa Rebolledo\n\nFuente: ESPN Core A
+ PI\n\nhttps://jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Municipal Alcaldesa Ester Roa Rebolledo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs Coquimbo Unido
+DTSTART:20260503T213000Z
+DTEND:20260503T233000Z
+UID:401850545@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Monumental David Arellano\n\nFuente: ESPN Core API\n\nhttps://
+ jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs Ñublense
+DTSTART:20260517T213000Z
+DTEND:20260517T233000Z
+UID:401850565@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Monumental David Arellano\n\nFuente: ESPN Core API\n\nhttps://
+ jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Universidad Católica vs Colo Colo
+DTSTART:20260524T220000Z
+DTEND:20260525T000000Z
+UID:401850579@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio San Carlos de Apoquindo\n\nFuente: ESPN Core API\n\nhttps://je
+ busrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio San Carlos de Apoquindo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Serena vs Colo Colo
+DTSTART:20260530T190000Z
+DTEND:20260530T210000Z
+UID:401850586@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio La Portada\n\nFuente: ESPN Core API\n\nhttps://jebusrf.github.
+ io/Colo-ColoWebCal/
+LOCATION:Estadio La Portada
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs Cobresal
+DTSTART:20260613T213000Z
+DTEND:20260613T233000Z
+UID:401850589@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Monumental David Arellano\n\nFuente: ESPN Core API\n\nhttps://
+ jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs Deportes Limache
+DTSTART:20260725T003000Z
+DTEND:20260725T023000Z
+UID:401850597@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Monumental David Arellano\n\nFuente: ESPN Core API\n\nhttps://
+ jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton CD vs Colo Colo
+DTSTART:20260801T190000Z
+DTEND:20260801T210000Z
+UID:401850610@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Sausalito\n\nFuente: ESPN Core API\n\nhttps://jebusrf.github.i
+ o/Colo-ColoWebCal/
+LOCATION:Estadio Sausalito
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unión La Calera vs Colo Colo
+DTSTART:20260809T213000Z
+DTEND:20260809T233000Z
+UID:401850619@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Municipal Nicolás Chahuán\n\nFuente: ESPN Core API\n\nhttps:
+ //jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Municipal Nicolás Chahuán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs O'Higgins
+DTSTART:20260816T213000Z
+DTEND:20260816T233000Z
+UID:401850621@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Monumental David Arellano\n\nFuente: ESPN Core API\n\nhttps://
+ jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Universidad de Chile vs Colo Colo
+DTSTART:20260823T190000Z
+DTEND:20260823T210000Z
+UID:401850630@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Nacional Julio Martínez Prádanos\n\nFuente: ESPN Core API\n
+ \nhttps://jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs Audax Italiano
+DTSTART:20260830T213000Z
+DTEND:20260830T233000Z
+UID:401850642@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Monumental David Arellano\n\nFuente: ESPN Core API\n\nhttps://
+ jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Huachipato vs Colo Colo
+DTSTART:20260906T200000Z
+DTEND:20260906T220000Z
+UID:401850650@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Municipal Alcaldesa Ester Roa Rebolledo\n\nFuente: ESPN Core A
+ PI\n\nhttps://jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Municipal Alcaldesa Ester Roa Rebolledo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs Deportes Concepcion
+DTSTART:20260913T203000Z
+DTEND:20260913T223000Z
+UID:401850657@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Monumental David Arellano\n\nFuente: ESPN Core API\n\nhttps://
+ jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coquimbo Unido vs Colo Colo
+DTSTART:20261011T180000Z
+DTEND:20261011T200000Z
+UID:401850661@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Francisco Sánchez Rumoroso\n\nFuente: ESPN Core API\n\nhttps:
+ //jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Francisco Sánchez Rumoroso
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Palestino vs Colo Colo
+DTSTART:20261025T180000Z
+DTEND:20261025T200000Z
+UID:401850672@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Municipal de La Cisterna\n\nFuente: ESPN Core API\n\nhttps://j
+ ebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Municipal de La Cisterna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs Universidad de Concepción
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+UID:401850681@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Monumental David Arellano\n\nFuente: ESPN Core API\n\nhttps://
+ jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ñublense vs Colo Colo
+DTSTART:20261108T200000Z
+DTEND:20261108T220000Z
+UID:401850691@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Municipal Oyarzún Arenas\n\nFuente: ESPN Core API\n\nhttps://
+ jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Municipal Oyarzún Arenas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs Universidad Católica
+DTSTART:20261122T200000Z
+DTEND:20261122T220000Z
+UID:401850693@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Monumental David Arellano\n\nFuente: ESPN Core API\n\nhttps://
+ jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs La Serena
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+UID:401850706@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio Monumental David Arellano\n\nFuente: ESPN Core API\n\nhttps://
+ jebusrf.github.io/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cobresal vs Colo Colo
+DTSTART:20261206T200000Z
+DTEND:20261206T220000Z
+UID:401850708@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Primera División de Chile\n\nEstad
+ io: Estadio El Cobre\n\nFuente: ESPN Core API\n\nhttps://jebusrf.github.io
+ /Colo-ColoWebCal/
+LOCATION:Estadio El Cobre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deportes Recoleta vs Colo Colo
+DTSTART:20260620T213000Z
+DTEND:20260620T233000Z
+UID:401871820@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Copa Chile\n\nEstadio: Estadio Sant
+ a Laura-Universidad SEK\n\nFuente: ESPN Core API\n\nhttps://jebusrf.github
+ .io/Colo-ColoWebCal/
+LOCATION:Estadio Santa Laura-Universidad SEK
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs O'Higgins
+DTSTART:20260625T233000Z
+DTEND:20260626T013000Z
+UID:401871857@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Copa Chile\n\nEstadio: Estadio Monu
+ mental David Arellano\n\nFuente: ESPN Core API\n\nhttps://jebusrf.github.i
+ o/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unión Española vs Colo Colo
+DTSTART:20260629T233000Z
+DTEND:20260630T013000Z
+UID:401871874@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Copa Chile\n\nEstadio: Estadio Sant
+ a Laura-Universidad SEK\n\nFuente: ESPN Core API\n\nhttps://jebusrf.github
+ .io/Colo-ColoWebCal/
+LOCATION:Estadio Santa Laura-Universidad SEK
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:O'Higgins vs Colo Colo
+DTSTART:20260703T003000Z
+DTEND:20260703T023000Z
+UID:401871882@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Copa Chile\n\nEstadio: Estadio El T
+ eniente\n\nFuente: ESPN Core API\n\nhttps://jebusrf.github.io/Colo-ColoWeb
+ Cal/
+LOCATION:Estadio El Teniente
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs Deportes Recoleta
+DTSTART:20260706T233000Z
+DTEND:20260707T013000Z
+UID:401871897@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Copa Chile\n\nEstadio: Estadio Monu
+ mental David Arellano\n\nFuente: ESPN Core API\n\nhttps://jebusrf.github.i
+ o/Colo-ColoWebCal/
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs Unión Española
+DTSTART:20260827T003000Z
+DTEND:20260827T023000Z
+UID:401881694@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Copa Chile\n\nEstadio: Estadio Naci
+ onal Julio Martínez Prádanos\n\nFuente: ESPN Core API\n\nhttps://jebusrf
+ .github.io/Colo-ColoWebCal/
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Audax Italiano vs Colo Colo
+DTSTART:20260922T233000Z
+DTEND:20260923T013000Z
+UID:401916349@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Copa Chile\n\nEstadio: Estadio Naci
+ onal Julio Martínez Prádanos\n\nFuente: ESPN Core API\n\nhttps://jebusrf
+ .github.io/Colo-ColoWebCal/
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colo Colo vs Audax Italiano
+DTSTART:20260925T230000Z
+DTEND:20260926T010000Z
+UID:401916345@jebusrf
+DESCRIPTION:Club: Colo-Colo\n\nTorneo: Copa Chile\n\nEstadio: Estadio Naci
+ onal Julio Martínez Prádanos\n\nFuente: ESPN Core API\n\nhttps://jebusrf
+ .github.io/Colo-ColoWebCal/
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+END:VCALENDAR

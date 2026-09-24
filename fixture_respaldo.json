@@ -1,0 +1,20 @@
+[
+  {
+    "fecha": "2026-08-23 15:00",
+    "titulo": "Universidad de Chile vs Colo-Colo",
+    "estadio": "Estadio Nacional, Santiago",
+    "torneo": "Primera División"
+  },
+  {
+    "fecha": "2026-08-26 17:30",
+    "titulo": "Colo-Colo vs Unión Española",
+    "estadio": "Estadio Monumental, Santiago",
+    "torneo": "Copa Chile"
+  },
+  {
+    "fecha": "2026-08-30 14:30",
+    "titulo": "Colo-Colo vs Audax Italiano",
+    "estadio": "Estadio Monumental, Santiago",
+    "torneo": "Primera División"
+  }
+]
