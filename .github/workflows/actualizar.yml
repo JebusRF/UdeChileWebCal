@@ -1,4 +1,4 @@
-name: Actualizar Colo-Colo WebCal
+name: Actualizar U. de Chile WebCal
 
 on:
   workflow_dispatch:
@@ -40,7 +40,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add docs/colocolo.ics
+          git add docs/udechile.ics
 
           git diff --staged --quiet || git commit -m "Actualización automática calendario Colo-Colo"
 
