@@ -181,7 +181,7 @@ def crear_calendario():
             print(e)
 
     with open(
-        "docs/colocolo.ics",
+        "docs/udechile.ics",
         "wb"
     ) as archivo:
 
@@ -189,7 +189,7 @@ def crear_calendario():
             calendario.to_ical()
         )
 
-    print("CALENDARIO GENERADO CORRECTAMENTE")
+    print("CALENDARIO UNIVERSIDAD DE CHILE GENERADO CORRECTAMENTE")
     print(f"PARTIDOS GENERADOS: {total}")
 
 
