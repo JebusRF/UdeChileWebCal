@@ -1,6 +1,6 @@
-# Colo-Colo WebCal ⚪⚫🏆
+# Universidad de Chile WebCal 🔵🔴🏆
 
-Calendario automático de Colo-Colo compatible con:
+Calendario automático de Universidad de Chile compatible con:
 
 - Apple Calendar
 - Google Calendar
@@ -8,7 +8,7 @@ Calendario automático de Colo-Colo compatible con:
 
 🌐 Sitio web:
 
-https://jebusrf.github.io/Colo-ColoWebCal/
+https://jebusrf.github.io/UdeChileWebCal/
 
 ## Tecnologías
 
@@ -28,6 +28,14 @@ https://jebusrf.github.io/Colo-ColoWebCal/
 
 ## Proyecto
 
-Colo-Colo WebCal es un proyecto independiente.
+Universidad de Chile WebCal es un proyecto independiente.
 
-No afiliado oficialmente a Colo-Colo, ANFP ni ESPN.
+No afiliado oficialmente a Universidad de Chile, ANFP ni ESPN.
+
+## Autor
+
+Desarrollado por Jesús Ramírez Fernández.
+
+GitHub:
+
+https://github.com/JebusRF/UdeChileWebCal
