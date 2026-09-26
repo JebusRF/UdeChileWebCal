@@ -363,8 +363,8 @@ LOCATION:Estadio Municipal Nicolás Chahuán
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everton CD vs Universidad de Chile
-DTSTART:20260924T233000Z
-DTEND:20260925T013000Z
+DTSTART:20260927T174500Z
+DTEND:20260927T194500Z
 UID:401916346@jebusrf
 DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Copa Chile\n\nEstadio: E
  stadio Sausalito\n\nFuente: ESPN Core API\n\nhttps://jebusrf.github.io/Ude
