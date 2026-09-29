@@ -382,6 +382,26 @@ DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Copa Chile\n\nEstadio: E
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Antofagasta vs Universidad de Chile
+DTSTART:20261007T220000Z
+DTEND:20261008T000000Z
+UID:401926840@jebusrf
+DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Copa Chile\n\nEstadio: E
+ stadio Bicentenario Calvo y Bascuñán\n\nFuente: ESPN Core API\n\nhttps:/
+ /jebusrf.github.io/UdeChileWebCal/
+LOCATION:Estadio Bicentenario Calvo y Bascuñán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Universidad de Chile vs Antofagasta
+DTSTART:20261021T230000Z
+DTEND:20261022T010000Z
+UID:401926824@jebusrf
+DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Copa Chile\n\nEstadio: P
+ or confirmar\n\nFuente: ESPN Core API\n\nhttps://jebusrf.github.io/UdeChil
+ eWebCal/
+LOCATION:Por confirmar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Universidad de Chile vs Palestino
 DTSTART:20260305T003000Z
 DTEND:20260305T023000Z
