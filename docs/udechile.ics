@@ -233,18 +233,18 @@ LOCATION:Estadio La Portada
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Universidad de Chile vs Ñublense
-DTSTART:20261012T210000Z
-DTEND:20261012T230000Z
+DTSTART:20261012T200000Z
+DTEND:20261012T220000Z
 UID:401850662@jebusrf
 DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Primera División de Chi
- le\n\nEstadio: Estadio Santa Laura-Universidad SEK\n\nFuente: ESPN Core AP
- I\n\nhttps://jebusrf.github.io/UdeChileWebCal/
-LOCATION:Estadio Santa Laura-Universidad SEK
+ le\n\nEstadio: Estadio El Teniente\n\nFuente: ESPN Core API\n\nhttps://jeb
+ usrf.github.io/UdeChileWebCal/
+LOCATION:Estadio El Teniente
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Universidad de Chile vs Everton CD
-DTSTART:20261025T180000Z
-DTEND:20261025T200000Z
+DTSTART:20261026T230000Z
+DTEND:20261027T010000Z
 UID:401850671@jebusrf
 DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Primera División de Chi
  le\n\nEstadio: Estadio Nacional Julio Martínez Prádanos\n\nFuente: ESPN 
