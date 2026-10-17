@@ -253,8 +253,8 @@ LOCATION:Estadio Nacional Julio Martínez Prádanos
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Universidad Católica vs Universidad de Chile
-DTSTART:20261101T200000Z
-DTEND:20261101T220000Z
+DTSTART:20261101T201500Z
+DTEND:20261101T221500Z
 UID:401850683@jebusrf
 DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Primera División de Chi
  le\n\nEstadio: Estadio San Carlos de Apoquindo\n\nFuente: ESPN Core API\n
@@ -393,13 +393,13 @@ LOCATION:Estadio Bicentenario Calvo y Bascuñán
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Universidad de Chile vs Antofagasta
-DTSTART:20261021T230000Z
-DTEND:20261022T010000Z
+DTSTART:20261021T220000Z
+DTEND:20261022T000000Z
 UID:401926824@jebusrf
-DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Copa Chile\n\nEstadio: P
- or confirmar\n\nFuente: ESPN Core API\n\nhttps://jebusrf.github.io/UdeChil
- eWebCal/
-LOCATION:Por confirmar
+DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Copa Chile\n\nEstadio: E
+ stadio Santa Laura-Universidad SEK\n\nFuente: ESPN Core API\n\nhttps://jeb
+ usrf.github.io/UdeChileWebCal/
+LOCATION:Estadio Santa Laura-Universidad SEK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Universidad de Chile vs Palestino
