@@ -243,13 +243,13 @@ LOCATION:Estadio El Teniente
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Universidad de Chile vs Everton CD
-DTSTART:20261026T230000Z
-DTEND:20261027T010000Z
+DTSTART:20261026T210000Z
+DTEND:20261026T230000Z
 UID:401850671@jebusrf
 DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Primera División de Chi
- le\n\nEstadio: Estadio Nacional Julio Martínez Prádanos\n\nFuente: ESPN 
- Core API\n\nhttps://jebusrf.github.io/UdeChileWebCal/
-LOCATION:Estadio Nacional Julio Martínez Prádanos
+ le\n\nEstadio: Estadio El Teniente\n\nFuente: ESPN Core API\n\nhttps://jeb
+ usrf.github.io/UdeChileWebCal/
+LOCATION:Estadio El Teniente
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Universidad Católica vs Universidad de Chile
