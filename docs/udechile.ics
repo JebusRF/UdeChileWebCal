@@ -393,8 +393,8 @@ LOCATION:Estadio Bicentenario Calvo y Bascuñán
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Universidad de Chile vs Antofagasta
-DTSTART:20261021T220000Z
-DTEND:20261022T000000Z
+DTSTART:20261105T220000Z
+DTEND:20261106T000000Z
 UID:401926824@jebusrf
 DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Copa Chile\n\nEstadio: E
  stadio Santa Laura-Universidad SEK\n\nFuente: ESPN Core API\n\nhttps://jeb
