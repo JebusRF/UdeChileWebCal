@@ -263,13 +263,13 @@ LOCATION:Estadio San Carlos de Apoquindo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Universidad de Chile vs Cobresal
-DTSTART:20261108T200000Z
-DTEND:20261108T220000Z
+DTSTART:20261109T230000Z
+DTEND:20261110T010000Z
 UID:401850686@jebusrf
 DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Primera División de Chi
- le\n\nEstadio: Estadio Nacional Julio Martínez Prádanos\n\nFuente: ESPN 
- Core API\n\nhttps://jebusrf.github.io/UdeChileWebCal/
-LOCATION:Estadio Nacional Julio Martínez Prádanos
+ le\n\nEstadio: Por confirmar\n\nFuente: ESPN Core API\n\nhttps://jebusrf.g
+ ithub.io/UdeChileWebCal/
+LOCATION:Por confirmar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:O'Higgins vs Universidad de Chile
