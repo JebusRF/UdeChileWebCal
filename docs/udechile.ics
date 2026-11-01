@@ -263,8 +263,8 @@ LOCATION:Estadio San Carlos de Apoquindo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Universidad de Chile vs Cobresal
-DTSTART:20261109T230000Z
-DTEND:20261110T010000Z
+DTSTART:20261108T180000Z
+DTEND:20261108T200000Z
 UID:401850686@jebusrf
 DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Primera División de Chi
  le\n\nEstadio: Por confirmar\n\nFuente: ESPN Core API\n\nhttps://jebusrf.g
