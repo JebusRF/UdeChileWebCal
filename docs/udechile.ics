@@ -267,9 +267,9 @@ DTSTART:20261108T180000Z
 DTEND:20261108T200000Z
 UID:401850686@jebusrf
 DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Primera División de Chi
- le\n\nEstadio: Por confirmar\n\nFuente: ESPN Core API\n\nhttps://jebusrf.g
- ithub.io/UdeChileWebCal/
-LOCATION:Por confirmar
+ le\n\nEstadio: Estadio El Teniente\n\nFuente: ESPN Core API\n\nhttps://jeb
+ usrf.github.io/UdeChileWebCal/
+LOCATION:Estadio El Teniente
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:O'Higgins vs Universidad de Chile
