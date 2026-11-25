@@ -402,6 +402,26 @@ DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Copa Chile\n\nEstadio: E
 LOCATION:Estadio Santa Laura-Universidad SEK
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Coquimbo Unido vs Universidad de Chile
+DTSTART:20261203T210000Z
+DTEND:20261203T230000Z
+UID:401936514@jebusrf
+DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Copa Chile\n\nEstadio: E
+ stadio Francisco Sánchez Rumoroso\n\nFuente: ESPN Core API\n\nhttps://jeb
+ usrf.github.io/UdeChileWebCal/
+LOCATION:Estadio Francisco Sánchez Rumoroso
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Universidad de Chile vs Coquimbo Unido
+DTSTART:20261210T210000Z
+DTEND:20261210T230000Z
+UID:401936513@jebusrf
+DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Copa Chile\n\nEstadio: E
+ stadio El Teniente\n\nFuente: ESPN Core API\n\nhttps://jebusrf.github.io/U
+ deChileWebCal/
+LOCATION:Estadio El Teniente
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Universidad de Chile vs Palestino
 DTSTART:20260305T003000Z
 DTEND:20260305T023000Z
