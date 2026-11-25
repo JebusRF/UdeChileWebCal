@@ -293,13 +293,13 @@ LOCATION:Estadio Municipal Alcaldesa Ester Roa Rebolledo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Universidad de Chile vs Unión La Calera
-DTSTART:20261206T200000Z
-DTEND:20261206T220000Z
+DTSTART:20261206T210000Z
+DTEND:20261206T230000Z
 UID:401850714@jebusrf
 DESCRIPTION:Club: Universidad de Chile\n\nTorneo: Primera División de Chi
- le\n\nEstadio: Estadio Nacional Julio Martínez Prádanos\n\nFuente: ESPN 
- Core API\n\nhttps://jebusrf.github.io/UdeChileWebCal/
-LOCATION:Estadio Nacional Julio Martínez Prádanos
+ le\n\nEstadio: Por confirmar\n\nFuente: ESPN Core API\n\nhttps://jebusrf.g
+ ithub.io/UdeChileWebCal/
+LOCATION:Por confirmar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Universidad de Chile vs Santiago Wanderers
